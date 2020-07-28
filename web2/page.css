@@ -1,0 +1,51 @@
+#Seoul{
+    text-align: center;
+    font-size: 20px;
+    color: white;
+    font-weight: bold;
+    padding-top: 90px;
+}
+
+#Seoul h1{
+    margin: 10px;
+}
+
+.sdate{
+    font-size: 30px;  
+}
+section{
+   background-image:url(./weather.jpg);
+   height: 500px;
+}
+
+#DC{
+    text-align: center;
+    font-size: 20px;
+    color: white;
+    font-weight: bold;
+    padding-top: 90px;
+}
+
+#DC h1{
+    margin: 10px;
+}
+
+.wdate{
+    font-size: 30px;  
+}
+
+#London{
+    text-align: center;
+    font-size: 20px;
+    color: white;
+    font-weight: bold;
+    padding-top: 90px;
+}
+
+#London h1{
+    margin: 10px;
+}
+
+.ldate{
+    font-size: 30px;  
+}
